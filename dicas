@@ -1,0 +1,7 @@
+unsplash = site de imagens
+
+Para mudar cores específicas(selecionar cor que quer mudar) = #navigation .logo path[fill*="#COR QUE QUER TROCAR AQUI"] {fill: #cor nova aqui;}
+
+Preencher o resto do flex equivalentemente = flex-grow: 1;
+
+Alinhar itens dentro de um espaço do grid = align-self: center;
