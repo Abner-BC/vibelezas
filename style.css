@@ -331,7 +331,6 @@ body.menu-expanded button path {
 
 #home {
        padding-top: calc(2.1rem + var(--navheight));
-       padding-block: 0;
 }
 
 #home .button {
